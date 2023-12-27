@@ -1,1 +1,1 @@
-# customer_churn
+# customer_churn project using ml algorithm
